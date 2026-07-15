@@ -41,5 +41,6 @@ Built during the Digital Marketing course (B3E4500101) at Tokyo International Un
 4. Replace `YOUR_SPREADSHEET_ID` in the Sheets nodes with your own sheet
 5. Activate the workflow
 
+## Example output
 <img width="2550" height="1338" alt="Screenshot 2026-07-15 202838" src="https://github.com/user-attachments/assets/74ac5b0a-6c1c-4abe-8450-137627b853b1" />
 
